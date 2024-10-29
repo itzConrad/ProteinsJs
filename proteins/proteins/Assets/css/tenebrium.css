@@ -176,6 +176,11 @@
     transform: scale(1.1);
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
 @media (max-width: 80rem){
     .intro{
         text-align: center;
